@@ -1,0 +1,15 @@
+{
+	"name": "projectsivaadf",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1fbbf53e-5578-4697-b4f6-f4325b8bf76c",
+		"tenantId": "c261b7e4-ce70-41ea-964e-5b306661558a"
+	}
+}
